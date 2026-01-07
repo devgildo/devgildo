@@ -1,4 +1,4 @@
-<h1 align="left">👋 Olá, eu sou o Gildo José Fernando Dala</h1>
+<h1 align="left">👋 Oiii, eu sou o Dev Gildo</h1>
 
 <p align="left">
   <strong>Desenvolvedor Front-end</strong> apaixonado por tecnologia e interfaces modernas.
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-
+---
 
 ## 📚 Atualmente estudando
 
@@ -39,15 +39,17 @@
 - 🧠 Boas práticas de Front-end
 - 🎨 UI/UX e Responsividade
 
-
-
+  ---
 ## 🌐 Vamos nos conectar
+
+---
 
 <p align="center">
   <a href="https://github.com/SEU_USUARIO_GITHUB">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 
 <p align="center">

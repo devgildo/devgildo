@@ -1,10 +1,10 @@
-<h1 align="center">👋 Olá, eu sou o Gildo José Fernando Dala</h1>
+<h1 align="left">👋 Olá, eu sou o Gildo José Fernando Dala</h1>
 
-<p align="center">
+<p align="left">
   <strong>Desenvolvedor Front-end</strong> apaixonado por tecnologia e interfaces modernas.
 </p>
 
-<p align="center">
+<p align="left">
   🚀 Em constante aprendizagem • 💻 Foco em Front-end • 🌍 Criando soluções para a web
 </p>
 
@@ -22,14 +22,14 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
----
+
 
 ## 📚 Atualmente estudando
 
@@ -39,14 +39,6 @@
 - 🧠 Boas práticas de Front-end
 - 🎨 UI/UX e Responsividade
 
----
-
-## 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devgildo&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight"/>
-</p>
 
 
 ## 🌐 Vamos nos conectar

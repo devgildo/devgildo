@@ -43,14 +43,11 @@
 
 ## 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight"/>
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devgildo&show_icons=true&theme=tokyonight"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight"/>
 </p>
 
-⚠️ **Substitui `SEU_USUARIO_GITHUB` pelo teu username real do GitHub**
-
----
 
 ## 🌐 Vamos nos conectar
 
@@ -60,7 +57,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   💙 <strong>“Código limpo, aprendizado constante e evolução diária.”</strong>
